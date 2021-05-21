@@ -1,0 +1,22 @@
+
+header {background-color: rgb(43, 43, 43);
+color: white;
+text-align: center;
+padding: 5px 0;
+vertical-align: top;}
+
+#main-bio, #contact-info, #bio-image{float: left;
+margin: auto;
+padding-right: 10px;}
+
+img { width: 200px;
+height: 200px}
+
+body {background-color: antiquewhite;
+margin: 0}
+
+.container {margin: auto;
+width: 900px;
+}
+
+a {color: red;}
